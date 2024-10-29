@@ -1,10 +1,10 @@
-# NextJs 14 Boilerplate
+# NextJs 15 Boilerplate
 
-This project is a boilerplate for creating simple websites and blogs using NextJs 14. It is designed to help you get started quickly with a modern web development stack.
+This project is a boilerplate for creating simple websites and blogs using NextJs 15. It is designed to help you get started quickly with a modern web development stack.
 
 ## Features
 
--   **NextJs 14**: The latest version of NextJs for server-side rendering and static site generation.
+-   **NextJs 15**: The latest version of NextJs for server-side rendering and static site generation.
 -   **TypeScript**: Strongly typed JavaScript for better code quality and developer experience.
 -   **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
